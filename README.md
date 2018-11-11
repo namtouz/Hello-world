@@ -2,4 +2,6 @@
 test
 Wijziging
 
-NU LOKAAL IN GIT
+NU LOAAL IN GIT
+
+Bovenstaande gewijzigd en nogmaals gepushed(ammend)
